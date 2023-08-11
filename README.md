@@ -4,7 +4,7 @@ For now, this is a basic [Next.js](https://nextjs.org/) project bootstrapped wit
 
 1. I recommend installing
 
-- [VSCode](https://code.visualstudio.com/Download)
+- [VSCode](https://code.visualstudio.com/Download), and the Prettier, ESLint, and Markdown Preview Enhanced extensions
 - [GitHub Desktop](https://desktop.github.com/) for Windows users, or [installing git for Mac or Linux](https://github.com/git-guides/install-git) that will work fine too
 - [Node LTS](https://desktop.github.com/)
 
