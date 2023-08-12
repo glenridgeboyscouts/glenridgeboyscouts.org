@@ -3,7 +3,7 @@
 import { Disclosure } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import Image from 'next/image';
-import logoImage from './bsa-logo.png';
+import logoImage from '../../public/bsa-logo.png';
 
 const navigation = [
 	{ name: 'Home', href: '#', current: true },
