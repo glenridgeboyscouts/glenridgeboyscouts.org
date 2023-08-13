@@ -31,8 +31,6 @@ Besides the regular installations, there are more powerful tools that cost money
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Learn Git](https://git-scm.com/doc) - a series of videos and manuals to learn Git.
 - [Hyper UI Components](https://www.hyperui.dev/) are the primary components used on this site.
-- [Tailwind Components](https://tailwindui.com/components/application-ui/application-shells/stacked) - Dark nav with white page header was used as a starting point
-- [Headless Components](https://headlessui.com/react/disclosure) - Disclosure menu was used for the nav bar mobile layout
 - See the `scripts` object in `package.json` for more `npm run` commands
 
 ### I'm lazy and don't want to read!
