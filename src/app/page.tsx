@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import heroImage from '../../public/robber.jpg';
+import heroImage from '../../public/troop-icon.png';
 
 export default function Home() {
 	return (
@@ -14,12 +14,12 @@ export default function Home() {
 
 								<p className='hidden text-gray-500 dark:text-gray-300 md:mt-4 md:block'>
 									This website will be worked on throughout the year. If you wish to help, please
-									contact corbin.wunderlich@glenridgeboyscouts.org.
+									contact corbin.wunderlich@glenridgeboyscouts.org
 								</p>
 
 								<div className='mt-4 md:mt-8'>
 									<a
-										href='#'
+										href='https://www.troopwebhost.org/Troop55GlenRidge/'
 										className='inline-block rounded bg-emerald-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400'
 									>
 										Get Started Today

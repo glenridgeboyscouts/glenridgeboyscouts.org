@@ -14,7 +14,7 @@ For now, this is a basic [Next.js](https://nextjs.org/) project bootstrapped wit
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-5. You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
+5. You can start editing the home page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
 6. When you are satisfied with your changes, create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and wait for it to be reviewed and acted upon.
 
