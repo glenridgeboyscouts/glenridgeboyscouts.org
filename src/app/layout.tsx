@@ -6,20 +6,17 @@ import logoImage from '../../public/bsa-logo.png';
 
 export const metadata: Metadata = {
 	title: 'Troop 55 Glen Ridge',
-	description: 'Scout Troop 855 Glen Ridge, NJ',
+	description: 'Boy Scout Troop 855 Glen Ridge, NJ',
 	icons: {
 		icon: '/icon.png',
 	},
 };
 
 const navigation = [
-	{ name: 'Home', href: '#', current: true },
-	{ name: 'About Us', href: '#', current: false },
-	{ name: 'Photos', href: '#', current: false },
-	{ name: 'Events', href: '#', current: false },
-	{ name: 'Fundraising', href: '#', current: false },
-	{ name: 'Workspace', href: '#', current: false },
-	{ name: 'TroopWebHost', href: 'https://www.troopwebhost.org/Troop55GlenRidge/', current: false },
+	{ name: 'Home', href: '/' },
+	{ name: 'TroopWebHost', href: 'https://www.troopwebhost.org/Troop55GlenRidge/' },
+	{ name: 'Google Workspace', href: 'https://mail.google.com/a/glenridgeboyscouts.org' },
+	{ name: 'Popcorn Fundraising', href: '/popcorn' },
 ];
 
 function classNames(...classes: string[]) {
@@ -34,7 +31,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 					<div className="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
 						<a className="block text-teal-600 dark:text-teal-300" href="/">
 							<span className="sr-only">Home</span>
-							<Image className="h-8 w-8" src={logoImage} alt="Your Company" />
+							<Image className="h-8 w-8" src={logoImage} alt="Troop 55" />
 						</a>
 
 						<div className="flex flex-1 items-center justify-end md:justify-between">
